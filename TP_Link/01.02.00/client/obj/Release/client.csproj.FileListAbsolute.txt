@@ -1,0 +1,10 @@
+D:\TCP Stuff\Library_SourceCode\01.02.00\client\obj\Release\client.csprojResolveAssemblyReference.cache
+D:\TCP Stuff\Library_SourceCode\01.02.00\client\obj\Release\client.csproj.CoreCompileInputs.cache
+D:\TCP Stuff\Library_SourceCode\01.02.00\client\bin\Release\client.exe.config
+D:\TCP Stuff\Library_SourceCode\01.02.00\client\bin\Release\client.exe
+D:\TCP Stuff\Library_SourceCode\01.02.00\client\bin\Release\client.pdb
+D:\TCP Stuff\Library_SourceCode\01.02.00\client\bin\Release\TPLink_SmartPlug.dll
+D:\TCP Stuff\Library_SourceCode\01.02.00\client\bin\Release\Newtonsoft.Json.dll
+D:\TCP Stuff\Library_SourceCode\01.02.00\client\bin\Release\Newtonsoft.Json.xml
+D:\TCP Stuff\Library_SourceCode\01.02.00\client\obj\Release\client.exe
+D:\TCP Stuff\Library_SourceCode\01.02.00\client\obj\Release\client.pdb

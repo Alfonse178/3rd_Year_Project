@@ -1,0 +1,11 @@
+C:\Users\Alfie S\Downloads\Library_SourceCode\01.02.00\TPLink_SmartPlug\obj\Release\TPLink_SmartPlug.csprojResolveAssemblyReference.cache
+C:\Users\Alfie S\Downloads\Library_SourceCode\01.02.00\TPLink_SmartPlug\obj\Release\TPLink_SmartPlug.csproj.CoreCompileInputs.cache
+C:\Users\Alfie S\Downloads\Library_SourceCode\01.02.00\TPLink_SmartPlug\bin\Release\TPLink_SmartPlug.dll
+C:\Users\Alfie S\Downloads\Library_SourceCode\01.02.00\TPLink_SmartPlug\bin\Release\Newtonsoft.Json.dll
+C:\Users\Alfie S\Downloads\Library_SourceCode\01.02.00\TPLink_SmartPlug\bin\Release\Newtonsoft.Json.xml
+C:\Users\Alfie S\Downloads\Library_SourceCode\01.02.00\TPLink_SmartPlug\obj\Release\TPLink_SmartPlug.dll
+D:\TCP Stuff\Library_SourceCode\01.02.00\TPLink_SmartPlug\bin\Release\TPLink_SmartPlug.dll
+D:\TCP Stuff\Library_SourceCode\01.02.00\TPLink_SmartPlug\bin\Release\Newtonsoft.Json.dll
+D:\TCP Stuff\Library_SourceCode\01.02.00\TPLink_SmartPlug\bin\Release\Newtonsoft.Json.xml
+D:\TCP Stuff\Library_SourceCode\01.02.00\TPLink_SmartPlug\obj\Release\TPLink_SmartPlug.csproj.CoreCompileInputs.cache
+D:\TCP Stuff\Library_SourceCode\01.02.00\TPLink_SmartPlug\obj\Release\TPLink_SmartPlug.dll
